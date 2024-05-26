@@ -27,5 +27,6 @@ This test checks if clicking on a product leads to the correct page with the pro
 It verifies that the product details page displays accurate information about the selected product, ensuring that users can view detailed information about products before making a purchase.
 
 Cart Functionality Test
+
 This test checks the logical functionality of the cart, specifically ensuring that items can be removed when the cart is empty.
 It verifies that the cart displays an appropriate message when it is empty and that no remove buttons are present, ensuring that users do not encounter errors when managing their cart contents.
